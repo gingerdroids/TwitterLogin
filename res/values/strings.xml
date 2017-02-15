@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Twitter Login Demo</string>
+    <string name="callback_name">Twitter login callback handler</string>
+</resources>
